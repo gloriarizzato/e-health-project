@@ -2,3 +2,4 @@
 Puzzle?
 -  prendiamo id Online cerchiamo le info --> franci, maria
 - Capire i serious games --> giuli, gloria, marti
+- capire come funziona gitHub
